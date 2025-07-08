@@ -12,10 +12,10 @@ Versão do node utilizada: 18.20.8
 
 Para rodar lembre-se de usar os seguintes comandos:
 
-'''bash
+```bash
 npm install
 npm start
-'''
+```
 
 ## Contextualização:
 Interface gráfica é um tipo de interface que permite a interação com dispositivos digitais por meio de
